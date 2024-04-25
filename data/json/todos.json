@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "description": "Accept exercise"
+  },
+  {
+    "id": 2,
+    "description": "Clone repository"
+  },
+  {
+    "id": 3,
+    "description": "Create a new branch"
+  },
+  {
+    "id": 4,
+    "description": "Push commits"
+  },
+  {
+    "id": 5,
+    "description": "Open a pull request"
+  }
+]
